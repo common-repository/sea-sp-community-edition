@@ -1,0 +1,135 @@
+h2 {
+    font-size: 3em !important;
+}
+
+h3 {
+    font-size: 2.3em !important;
+}
+
+h4 {
+    font-size: 1.7em !important;
+}
+
+.toggle-handle {
+    position: relative;
+    margin: 0 auto;
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 100%;
+    width: 0;
+    border-width: 0 1px;
+    background-color: white !important;
+}
+
+.card {
+    margin-top: 0 !important;
+    padding: 0 !important;
+    height: 100%;
+    max-width: none;
+}
+
+.card.sea-sp-green {
+    background-color: #27707d;
+}
+
+.form-check {
+    padding-left: 0px !important;
+}
+
+.card.three-steps {
+    border-right: 1px solid #666666; 
+    border-radius: 0px;
+    padding-top: 1em;
+
+}
+
+.card.three-steps:last-of-type {
+    border: 0px;
+} 
+
+
+.three-steps  li.list-group-item {
+    border: 0px;
+}
+
+ul.list-group li.list-group-item, .three-steps li.list-group-item {
+    list-style-type: disc !important;
+    list-style-position: inside !important;
+}
+
+.list-group-item {
+    padding: 0 1.4em;
+}
+
+.card-text {
+    font-size: 1em;
+}
+
+.card.three-steps .card-body {
+    margin-top: .5rem;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    border-top: 7px solid #055c81;
+    color: #055c81 !important;
+}
+
+.navbar-light .navbar-nav >.nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav >.nav-link {
+    border-top: 7px solid transparent;
+
+}
+
+#wpfooter {
+    position: relative !important;
+}
+
+p {
+    font-size: 1em;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    border: 1px solid #cccccc !important;
+}
+
+#accordion >.card > .card-header.show {
+    background-color:  #055c81 !important;
+}
+
+#accordion >.card > .card-header.show  a {
+    color: #ffffff !important;
+}
+
+.card.three-steps .card-img-top {
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+.card.three-steps {
+    display: inherit !important;
+}
+
+.card.three-steps .card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-head {
+    padding-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: #055c81 !important;
+    border-color: #055c81 !important;
+    color: #ffffff !important;
+}
+
+.btn-warning {
+    background-color: #D56A5C !important;
+    border-color: #D56A5C !important;
+    color: #ffffff !important;
+}
+
+a.pink-text {
+    color: #D56A5C !important;
+}
+
